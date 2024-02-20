@@ -26,21 +26,6 @@ This repository contains the source code and documentation for a MiniLang scanne
   - Design decisions, scanner structure, and program execution instructions.
   - Test cases including edge cases.
 
-## Deliverables
-
-- Source code (10 marks)
-- Design & implementation report (5 marks, 2 pages)
-- MiniLang examples & token screenshots (3 marks)
-- Zip file sent to usama.arshad@giki.edu.pk (3 marks)
-- GitHub repository link (2 marks)
-
-## Evaluation Criteria
-
-- Correctness and completeness of scanner implementation.
-- Accurate tokenization and error handling.
-- Code quality (readability, comments, best practices).
-- Documentation and test case quality.
-
 ## Usage
 
 **Prerequisites:**
